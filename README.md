@@ -1,5 +1,5 @@
-Ссылка на репозиторий с фронтендом: (https://github.com/cocka67/pindie-front)
+Ссылка на репозиторий с фронтендом: (https://github.com/Ne9dan4ik/front)
 
-Ссылка на домен фронтенда: (https://pindie.front.nomoredomainswork.ru) 
+Ссылка на домен фронтенда: (https://frontendjostkiy.nomorepartiesco.ru/) 
 
-IP-адрес: 158.160.168.120
+IP-адрес: 158.160.171.78
